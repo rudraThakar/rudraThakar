@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello World!! Half Circuits, Half Code, Full Passion:
 I am currently a 2nd-year B.Tech. Electrical Engineering student at IIT Jodhpur, driven by a deep passion for technology and innovation.<br>My interests lie at the intersection of machine learning, deep learning, and real-world hardware implementations of AI models, where I aim to bridge the gap between theory and practical applications.<br>I am equally fascinated by data analytics, uncovering insights from data to fuel smarter decisions.<br>Alongside my love for AI, I have a strong enthusiasm for electronics engineering, constantly exploring how intelligent systems and cutting-edge hardware can come together to shape the future.
 
 
