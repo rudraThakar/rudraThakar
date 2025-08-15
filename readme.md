@@ -1,6 +1,11 @@
 # 💫 Hello World!! Half Circuits, Half Code, Full Passion:
-I am currently a 2nd-year B.Tech. Electrical Engineering student at IIT Jodhpur, driven by a deep passion for technology and innovation.<br>My interests lie at the intersection of machine learning, deep learning, and real-world hardware implementations of AI models, where I aim to bridge the gap between theory and practical applications.<br>I am equally fascinated by data analytics, uncovering insights from data to fuel smarter decisions.<br>Alongside my love for AI, I have a strong enthusiasm for electronics engineering, constantly exploring how intelligent systems and cutting-edge hardware can come together to shape the future.
+I am currently a **3rd-year B.Tech. Electrical Engineering** student at **IIT Jodhpur**, passionate about the intricate synergy between hardware and software.
+My interests lie in:
+- **Embedded Software Development** – including **Linux kernel programming** and **low-level driver development**.
+- **Digital VLSI Design** – with a strong focus on **processors** and **System-on-Chip (SoC) architectures**.
+I aim to explore how **efficient hardware design** and **optimized software** can work together to power the next generation of computing systems.
 
+Beyond technical expertise, I am driven by the challenge of building **robust, high-performance embedded solutions** that push the boundaries of modern electronics.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudra_thakar11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RudraThakar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@rudrathakar08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudrathakar08@gmail.com) 
