@@ -1,5 +1,5 @@
 # 💫 Hello World!! Half Circuits, Half Code, Full Passion:
-I am currently a **3rd-year B.Tech. Electrical Engineering** student at **IIT Jodhpur**, passionate about the intricate synergy between hardware and software.
+I am currently a **4th-year B.Tech. Electrical Engineering** student at **IIT Jodhpur**, passionate about the intricate synergy between hardware and software.
 My interests lie in:
 - **Embedded Software Development** – including **Linux kernel programming** and **low-level driver development**.
 - **Digital VLSI Design** – with a strong focus on **processors** and **System-on-Chip (SoC) architectures**.
